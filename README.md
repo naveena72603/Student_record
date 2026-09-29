@@ -1,5 +1,3 @@
-
-
 Student Record Management System
 
 A mini project developed in C using Singly Linked List to manage student records. The system supports adding, deleting, modifying, displaying, sorting, and saving student information.
@@ -27,13 +25,9 @@ How to Complie
     using makefile : make
 
 How to Run
-
-    ./Outfile
+./Outfile
 
 Author Name
-
   Naveena A
-
-Author Name
 
 S.Rajalakshmi (ECE)
