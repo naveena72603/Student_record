@@ -27,7 +27,6 @@ How to Complie
 How to Run
 ./Outfile
 
-Author Name
-  Naveena A
+
 
 S.Rajalakshmi (ECE)
